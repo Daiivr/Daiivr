@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/banners/271701484922601472/a_8b3d720bb56bca8705e29d2e36e36499.gif?size=600" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
