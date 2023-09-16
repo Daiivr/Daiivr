@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <ins><div align="center">Hi, I'm Dai, an attempt at developer.... working remotely since 2016 🚀</div></ins>  
   
@@ -85,7 +84,10 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-<br/>  
+  <br> 
+  <p align="center">
+  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/271701484922601472.png" />
+  <br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Daiivr&&style=flat-square" align="center" />
