@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning [C++](https://cplusplus.com)  
   
 
-- ❓[.....](https://daivr.net)  
+- ❓[.....](https://daivr.dev)  
   
 
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!  
