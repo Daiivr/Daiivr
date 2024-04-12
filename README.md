@@ -2,16 +2,13 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
-### <ins><div align="center">Hi, I'm Dai, an attempt at developer.... working remotely since 2016 🚀</div></ins>  
+# <ins><div align="center">Hi, I'm ~~[Dai](https://daivr.dev)~~.</div></ins>  
   
 
 - 🔭 I'm not working on anything currently  
   
 
 - 🌱 I’m currently learning [C++](https://cplusplus.com)  
-  
-
-- ❓[.....](https://daivr.dev)  
   
 
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!  
