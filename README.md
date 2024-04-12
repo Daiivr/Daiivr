@@ -20,66 +20,55 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+###
 
+<h2 align="left">Tools I use.</h2>
 
+###
 
-### Frontend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Daiivr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+</div>
 
-<br/>  
+###
+
+<h2 align="left">Languages I use.</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+</div>
+
+###
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Daiivr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<h2 align="left">My Stats</h2>
 
-<br/>  
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daiivr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Daiivr&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
