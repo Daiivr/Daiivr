@@ -1,9 +1,19 @@
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif" align="center" style="width: 100%" />
-</div>  
+# <ins><div align="center">Hi, I'm ~~[Dai](https://daivr.dev)~~.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<!--  -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif"></a>
+</p>
 
-# <ins><div align="center">Hi, I'm ~~[Dai](https://daivr.dev)~~.</div></ins>  
-  
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
 
 - 🔭 I'm not working on anything currently  
   
@@ -14,30 +24,37 @@
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!  
   
 
-<br/>  
+<br><br>
 
-
-###
-
-<h2 align="center">Tools I use.</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ###
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>                                                                                       
+<br/>
 
+###
+<p align="center"><b>Tools I use:</b>  
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="adobephotoshop logo"  />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
 </div>
 
 ###
 
-<h2 align="center">Languages I use.</h2>
+<p align="center"><b>Languages I use:<b/>
 
 ###
 
@@ -51,12 +68,16 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
 </div>
 
 ###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-<h2 align="center">My Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Stats </b>
 
 ###
 
@@ -70,9 +91,9 @@
 <img src="https://raw.githubusercontent.com/Daiivr/Daiivr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=np81p4a1kdge7eaz0pgjid96p&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
   <br> 
   <p align="center">
