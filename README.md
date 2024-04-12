@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Tools I use.</h2>
+<h2 align="center">Tools I use.</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Languages I use.</h2>
+<h2 align="center">Languages I use.</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 ###
 
 
-<h2 align="left">My Stats</h2>
+<h2 align="center">My Stats</h2>
 
 ###
 
