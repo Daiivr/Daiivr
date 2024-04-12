@@ -68,6 +68,10 @@
   <img src="https://streak-stats.demolab.com?user=Daiivr&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Daiivr/Daiivr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 ###
 
 
