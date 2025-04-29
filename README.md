@@ -95,12 +95,17 @@
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=np81p4a1kdge7eaz0pgjid96p&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center">
 
-  <br> 
-  <p align="center">
-  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/271701484922601472.png" />
-  <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/271701484922601472?bg=0d1017)](https://discord.com/users/271701484922601472)
+
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Daiivr&&style=flat-square" align="center" />
