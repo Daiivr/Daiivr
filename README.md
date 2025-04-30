@@ -120,9 +120,12 @@
 
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Daiivr&&style=flat-square" align="center" />
-</div>  
+<h3 align="center">👁️‍🗨️ Profile Views</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daiivr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
   
 
 <br/>  
