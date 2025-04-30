@@ -109,16 +109,24 @@
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=0d1017&interchange=false&bar_color=53b14f&bar_color_cover=true" width="300">
+<!-- Spotify & Discord -->
+<h2 align="center">🎵 What I'm Listening To</h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=0d1017&interchange=false&bar_color=53b14f&bar_color_cover=true" width="300"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center">💬 Discord Status</h2>
+
+<p align="center">
+  <a href="https://discord.com/users/271701484922601472">
+    <img src="https://lanyard.cnrad.dev/api/271701484922601472?bg=0d1017" />
   </a>
-</div>
+</p>
 
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/271701484922601472?bg=0d1017)](https://discord.com/users/271701484922601472)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="center">👁️‍🗨️ Profile Views</h3>
 
@@ -126,7 +134,6 @@
   <img src="https://komarev.com/ghpvc/?username=Daiivr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-  
 
 <br/>  
 
