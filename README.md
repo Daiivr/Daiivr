@@ -80,6 +80,18 @@
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h2 align="center"><img src="https://i.imgur.com/gkB6265.gif" width="35"><b> My Projects </b>
+	
+###
+
+<div align="center">
+  <a href="https://github.com/Daiivr/DaiBot.NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daiivr&repo=DaiBot.NET&theme=dracula&hide_border=false" alt="DaiBot.NET Repo" />
+  </a>
+</div>
+
+###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Stats </b>
 
