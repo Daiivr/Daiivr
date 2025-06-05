@@ -85,8 +85,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Daiivr/DaiBot.NET">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daiivr&repo=DaiBot.NET&theme=dracula&hide_border=false" alt="DaiBot.NET Repo" />
+  <a href="https://github.com/Daiivr/DaiBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daiivr&repo=DaiBot&theme=dracula&hide_border=false" alt="DaiBot Repo" />
   </a>
 </div>
 
