@@ -86,7 +86,7 @@
 
 <div align="center">
   <a href="https://github.com/Daiivr/DaiBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daiivr&repo=DaiBot&theme=dracula&hide_border=false" alt="DaiBot Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daiivr&repo=PokeNexo&theme=dracula&hide_border=false" alt="PokeNexo Repo" />
   </a>
 </div>
 
