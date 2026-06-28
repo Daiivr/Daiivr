@@ -1,143 +1,256 @@
-# <ins><div align="center">Hi, I'm ~~[Dai](https://daivr.dev)~~.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<!--  -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif"></a>
-</p>
-
-
-<br>
-
-
-
-	
-## <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> **About me**
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<br>
-
-- 🔭 I'm not working on anything currently  
-  
-
-- 🌱 I’m currently learning [C++](https://cplusplus.com)  
-  
-
-- ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!  
-  
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-###
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>                                                                                       
-<br/>
-
-###
-<p align="center"><b>Tools I use:</b>  
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
-</div>
 
-###
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3c6,50:cdb4db,100:bde0fe&height=180&section=header&text=Hi,%20I'm%20Dai%20%E2%9C%A8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 
-<p align="center"><b>Languages I use:<b/>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="30" alt="lua logo"  />
-</div>
-
-###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h2 align="center"><img src="https://i.imgur.com/gkB6265.gif" width="35"><b> My Projects </b>
-	
-###
-
-<div align="center">
-  <a href="https://github.com/Daiivr/DaiBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daiivr&repo=PokeNexo&theme=dracula&hide_border=false" alt="PokeNexo Repo" />
+  <a href="https://daivr.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FFB3C6&center=true&vCenter=true&width=520&lines=developer+in+training+%F0%9F%92%BB;cute+code+%2B+creative+chaos+%E2%9C%A8;learning+C%2B%2B+one+bug+at+a+time" alt="Typing SVG" />
   </a>
+
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=Daiivr&label=Profile%20Views&color=ffb3c6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Coding%20softly-bde0fe?style=for-the-badge" alt="status badge" />
+  <img src="https://img.shields.io/badge/Vibe-Cute%20%2B%20Tech-cdb4db?style=for-the-badge" alt="vibe badge" />
+
 </div>
 
-###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Stats </b>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daiivr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Daiivr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/Daiivr/Daiivr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<!-- Spotify & Discord -->
-<h2 align="center">🎵 What I'm Listening To</h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=0d1017&interchange=false&bar_color=53b14f&bar_color_cover=true" width="300"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<h2 align="center">💬 Discord Status</h2>
-
-<p align="center">
-  <a href="https://discord.com/users/271701484922601472">
-    <img src="https://lanyard.cnrad.dev/api/271701484922601472?bg=0d1017" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<h3 align="center">👁️‍🗨️ Profile Views</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daiivr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
-
-
-<br/>  
-
-<div align="center"></div>
 <br />
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA5MWExMTE0MmU2NzYzZjcxYTVlMTkwNjFjNzc0ZDllZWY0OWNiMyZjdD1n/07PK18YBoP4fcZQ9Zf/giphy.gif" width="360" alt="cute coding gif" />
+</div>
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb3c6,50:cdb4db,100:bde0fe&height=3&section=header" alt="pastel divider" />
+</div>
+
+<h2 align="center">
+  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="28" alt="cat" />
+  About Me
+</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/currently-learning%20C%2B%2B-ffb3c6?style=for-the-badge" alt="currently learning C++" />
+  <img src="https://img.shields.io/badge/mood-soft%20debugging-cdb4db?style=for-the-badge" alt="soft debugging" />
+  <img src="https://img.shields.io/badge/building-cute%20tech-bde0fe?style=for-the-badge" alt="cute tech" />
+
+</div>
+
+```cpp
+class Dai {
+public:
+  string focus = "learning C++";
+  string style = "cute code + creative tools";
+
+  vector<string> interests = {
+    "game dev",
+    "bots",
+    "pretty interfaces",
+    "tiny details"
+  };
+
+  void currentMission() {
+    cout << "build things that feel useful, playful, and a little magical";
+  }
+};
+```
+
+<div align="center">
+
+  <sub>
+    I like mixing <b>code</b>, <b>design</b>, games, and tiny cute details.
+    <br />
+    Fun fact: the Firefox logo is not a fox... it is a red panda!
+  </sub>
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bde0fe,50:cdb4db,100:ffb3c6&height=3&section=header" alt="pastel divider" />
+</div>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" alt="code icon" />
+  Tech Stack
+</h2>
+
+<div align="center">
+
+  <h3>languages.exe</h3>
+
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,nodejs,html,lua&theme=dark" alt="Languages: C#, C++, Python, JavaScript, Node.js, HTML, Lua" />
+
+  <br />
+  <br />
+
+  <code>C#</code>
+  <code>C++</code>
+  <code>Python</code>
+  <code>JavaScript</code>
+  <code>Node.js</code>
+  <code>HTML5</code>
+  <code>Lua</code>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <h3>toolbox.zip</h3>
+
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,arduino,unity,blender,ps,ai,linux&theme=dark" alt="Tools: Visual Studio, VS Code, Git, GitHub, Arduino, Unity, Blender, Photoshop, Illustrator, Linux" />
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/editor-Visual%20Studio%20%2B%20VS%20Code-ffb3c6?style=flat-square" alt="editor badge" />
+  <img src="https://img.shields.io/badge/game%20dev-Unity-cdb4db?style=flat-square" alt="game dev badge" />
+  <img src="https://img.shields.io/badge/creative-Blender%20%2B%20Adobe-bde0fe?style=flat-square" alt="creative tools badge" />
+  <img src="https://img.shields.io/badge/workflow-Git%20%2B%20GitHub-ffc8dd?style=flat-square" alt="workflow badge" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb3c6,50:cdb4db,100:bde0fe&height=3&section=header" alt="pastel divider" />
+</div>
+
+<h2 align="center">
+  <img src="https://i.imgur.com/gkB6265.gif" width="34" alt="project icon" />
+  Featured Project
+</h2>
+
+<div align="center">
+  <a href="https://github.com/Daiivr/TradeDex">
+    <img width="700" src="https://capsule-render.vercel.app/api?type=venom&color=0:161b22,35:2a2438,70:3a2d4f,100:161b22&height=150&section=header&text=TradeDex&desc=C%23%20featured%20build%20%E2%80%A2%20cute%20developer%20vibe&fontSize=42&fontColor=ffb3c6&descSize=15&descAlignY=68&animation=fadeIn" alt="TradeDex featured project banner" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1300&color=BDE0FE&center=true&vCenter=true&width=720&lines=%24+repo.open(%22Daiivr%2FTradeDex%22);%3E+stack%3A+C%23+%7C+theme%3A+cute-developer;%3E+status%3A+featured+build+%E2%9C%A8" alt="TradeDex console animation" />
+</div>
+
+<div align="center">
+  <sub>
+    <code>TradeDex</code> is a SysBot client in Spanish/English for automating Pokemon trades
+    <br />
+    and remotely controlling Nintendo Switch consoles.
+  </sub>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Daiivr/TradeDex">
+    <img src="https://img.shields.io/badge/open%20repo-Daiivr%2FTradeDex-ffb3c6?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Daiivr/TradeDex repository badge" />
+  </a>
+  <img src="https://img.shields.io/badge/C%23-bde0fe?style=for-the-badge&logo=csharp&logoColor=161b22&labelColor=161b22" alt="C# badge" />
+  <img src="https://img.shields.io/badge/cute%20dev-cdb4db?style=for-the-badge&labelColor=161b22" alt="cute dev badge" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bde0fe,50:cdb4db,100:ffb3c6&height=3&section=header" alt="pastel divider" />
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34" alt="stats icon" />
+  GitHub Stats
+</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1400&color=FFB3C6&center=true&vCenter=true&width=620&lines=github.garden(%22Daiivr%22);small+commits+%2B+soft+debugging;building+one+repo+at+a+time" alt="GitHub stats typing animation" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/commits-soft%20debugging-ffb3c6?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="soft debugging badge" />
+  <img src="https://img.shields.io/badge/languages-C%23%20%2B%20C%2B%2B%20%2B%20Python-bde0fe?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=161b22" alt="languages badge" />
+  <img src="https://img.shields.io/badge/vibe-cute%20developer-cdb4db?style=for-the-badge&logo=sparkfun&logoColor=white&labelColor=161b22" alt="cute developer badge" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daiivr&bg_color=0d1117&color=ffb3c6&line=bde0fe&point=ffc8dd&area=true&area_color=cdb4db&hide_border=true&radius=10&height=235&custom_title=Dai's%20commit%20garden" alt="GitHub activity graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Daiivr&custom_title=work.snapshot&show_icons=true&hide_rank=true&hide_border=false&border_color=ffb3c6&bg_color=0d1117&title_color=ffb3c6&text_color=ffffff&icon_color=bde0fe&ring_color=cdb4db" alt="Dai's GitHub work stats" />
+  <img width="12" />
+  <img height="185" src="https://streak-stats.demolab.com?user=Daiivr&theme=transparent&hide_border=false&border=ffb3c6&background=0D1117&stroke=cdb4db&ring=ffb3c6&fire=bde0fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffb3c6&sideLabels=cdb4db&dates=bde0fe" alt="Dai's commit streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daiivr/Daiivr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daiivr/Daiivr/output/github-contribution-grid-snake.svg" />
+    <img width="92%" src="https://raw.githubusercontent.com/Daiivr/Daiivr/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" />
+  </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb3c6,50:cdb4db,100:bde0fe&height=3&section=header" alt="pastel divider" />
+</div>
+
+<h2 align="center">music.log</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/music.log-soft%20coding%20playlist-ffb3c6?style=for-the-badge&logo=spotify&logoColor=white&labelColor=161b22" alt="Music log badge" />
+  <img src="https://img.shields.io/badge/audio-syncing%20recent%20tracks-bde0fe?style=for-the-badge&labelColor=161b22" alt="Audio sync badge" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1300&color=FFB3C6&center=true&vCenter=true&width=520&lines=audio.stream(%22soft-coding%22);recent_tracks.sync();now_playing%20%2B%20debugging" alt="Music log typing animation" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="300" src="https://spotify-github-profile.kittinanx.com/api/view?uid=np81p4a1kdge7eaz0pgjid96p&cover_image=true&theme=default&show_offline=false&background_color=0d1017&interchange=false&bar_color=ffb3c6&bar_color_cover=true" alt="Spotify now playing" />
+</div>
+
+<div align="center">
+  <sub><code>music.log</code> syncs recent tracks</sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bde0fe,50:cdb4db,100:ffb3c6&height=3&section=header" alt="pastel divider" />
+</div>
+
+<h2 align="center">presence.json</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/presence.json-online%20or%20debugging-cdb4db?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22" alt="Presence badge" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://discord.com/users/271701484922601472">
+    <img width="500" src="https://discord-status-card-if1iitwef-si-uwu.vercel.app/api/discord-card.svg" alt="Discord presence" />
+  </a>
+</div>
+
+<div align="center">
+  <sub><code>presence.json</code> syncs Discord status</sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb3c6,50:cdb4db,100:bde0fe&height=3&section=header" alt="pastel divider" />
+</div>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=FFB3C6&center=true&vCenter=true&width=560&lines=thanks+for+visiting+my+little+corner+of+github+%3C3;keep+coding+softly+%E2%9C%A8" alt="footer typing text" />
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,50:cdb4db,100:ffb3c6&height=120&section=footer" alt="footer" />
+
+</div>
