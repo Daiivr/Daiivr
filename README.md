@@ -37,24 +37,9 @@
 
 </div>
 
-```cpp
-class Dai {
-public:
-  string focus = "learning C++";
-  string style = "cute code + creative tools";
-
-  vector<string> interests = {
-    "game dev",
-    "bots",
-    "pretty interfaces",
-    "tiny details"
-  };
-
-  void currentMission() {
-    cout << "build things that feel useful, playful, and a little magical";
-  }
-};
-```
+<div align="center">
+  <img width="760" src="https://discord-status-card-six.vercel.app/api/about-code.svg?v=typing-code-icon" alt="Animated C++ profile code" />
+</div>
 
 <div align="center">
 
