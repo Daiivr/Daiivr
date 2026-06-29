@@ -79,18 +79,7 @@ public:
 
   <h3>languages.exe</h3>
 
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,nodejs,html,lua&theme=dark" alt="Languages: C#, C++, Python, JavaScript, Node.js, HTML, Lua" />
-
-  <br />
-  <br />
-
-  <code>C#</code>
-  <code>C++</code>
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>Node.js</code>
-  <code>HTML5</code>
-  <code>Lua</code>
+  <img width="560" src="https://i.imgur.com/25KM6jF.png" alt="Languages: C#, C++, Python, JavaScript, Node.js, HTML5, Lua" />
 
 </div>
 
@@ -100,15 +89,7 @@ public:
 
   <h3>toolbox.zip</h3>
 
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,arduino,unity,blender,ps,ai,linux&theme=dark" alt="Tools: Visual Studio, VS Code, Git, GitHub, Arduino, Unity, Blender, Photoshop, Illustrator, Linux" />
-
-  <br />
-  <br />
-
-  <img src="https://img.shields.io/badge/editor-Visual%20Studio%20%2B%20VS%20Code-ffb3c6?style=flat-square" alt="editor badge" />
-  <img src="https://img.shields.io/badge/game%20dev-Unity-cdb4db?style=flat-square" alt="game dev badge" />
-  <img src="https://img.shields.io/badge/creative-Blender%20%2B%20Adobe-bde0fe?style=flat-square" alt="creative tools badge" />
-  <img src="https://img.shields.io/badge/workflow-Git%20%2B%20GitHub-ffc8dd?style=flat-square" alt="workflow badge" />
+  <img width="640" src="https://i.imgur.com/hMSKeSO.png" alt="Tools: Visual Studio, VS Code, Git, GitHub, Arduino, Unity, Blender, Photoshop, Illustrator, Linux" />
 
 </div>
 
@@ -123,12 +104,12 @@ public:
 
 <div align="center">
   <a href="https://github.com/Daiivr/TradeDex">
-    <img width="700" src="https://capsule-render.vercel.app/api?type=venom&color=0:161b22,35:2a2438,70:3a2d4f,100:161b22&height=150&section=header&text=TradeDex&desc=C%23%20featured%20build%20%E2%80%A2%20cute%20developer%20vibe&fontSize=42&fontColor=ffb3c6&descSize=15&descAlignY=68&animation=fadeIn" alt="TradeDex featured project banner" />
+    <img width="300" src="https://i.imgur.com/x3me6x8.png" alt="TradeDex featured project logo" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1300&color=BDE0FE&center=true&vCenter=true&width=720&lines=%24+repo.open(%22Daiivr%2FTradeDex%22);%3E+stack%3A+C%23+%7C+theme%3A+cute-developer;%3E+status%3A+featured+build+%E2%9C%A8" alt="TradeDex console animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1300&color=BDE0FE&center=true&vCenter=true&width=720&lines=%3E+status%3A+featured+build+%E2%9C%A8;%3E+stack%3A+C%23+%7C+theme%3A+cute-developer" alt="TradeDex console animation" />
 </div>
 
 <div align="center">
