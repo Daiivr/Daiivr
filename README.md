@@ -201,7 +201,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/271701484922601472">
-    <img width="500" src="https://discord-status-card-if1iitwef-si-uwu.vercel.app/api/discord-card.svg" alt="Discord presence" />
+    <img width="620" src="https://discord-status-card-six.vercel.app/api/discord-card.svg?v=spotify-progress-fast" alt="Discord presence" />
   </a>
 </div>
 
