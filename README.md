@@ -89,7 +89,7 @@
 
 <div align="center">
   <a href="https://github.com/Daiivr/TradeDex">
-    <img width="300" src="https://i.imgur.com/Kwzfkqv.png" alt="TradeDex featured project logo" />
+    <img width="450" src="https://i.imgur.com/Kwzfkqv.png" alt="TradeDex featured project logo" />
   </a>
 </div>
 
